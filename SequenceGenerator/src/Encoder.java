@@ -4,8 +4,8 @@ public class Encoder {
 
 	public static void main(String[] args) {
 		Encoder e = new Encoder();
-		e.generateSequence(4);
-		e.display(4);
+		e.generateSequence(3);
+		e.display(3);
 
 	}
 
